@@ -14,6 +14,7 @@
 		DB9146491D80E5D6003EAD0E /* ItemsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB9146481D80E5D6003EAD0E /* ItemsViewController.swift */; };
 		DB91464B1D80E657003EAD0E /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB91464A1D80E657003EAD0E /* Item.swift */; };
 		DB91464D1D80EDA5003EAD0E /* ItemStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB91464C1D80EDA5003EAD0E /* ItemStore.swift */; };
+		DB91464F1D81EC28003EAD0E /* ItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB91464E1D81EC28003EAD0E /* ItemCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		DB9146481D80E5D6003EAD0E /* ItemsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemsViewController.swift; sourceTree = "<group>"; };
 		DB91464A1D80E657003EAD0E /* Item.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		DB91464C1D80EDA5003EAD0E /* ItemStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemStore.swift; sourceTree = "<group>"; };
+		DB91464E1D81EC28003EAD0E /* ItemCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				DB91464A1D80E657003EAD0E /* Item.swift */,
 				DB91464C1D80EDA5003EAD0E /* ItemStore.swift */,
 				DB9146481D80E5D6003EAD0E /* ItemsViewController.swift */,
+				DB91464E1D81EC28003EAD0E /* ItemCell.swift */,
 				DB91463D1D80E4AB003EAD0E /* Assets.xcassets */,
 				DB91463F1D80E4AB003EAD0E /* LaunchScreen.storyboard */,
 				DB9146421D80E4AB003EAD0E /* Info.plist */,
@@ -145,6 +148,7 @@
 				DB9146491D80E5D6003EAD0E /* ItemsViewController.swift in Sources */,
 				DB91464D1D80EDA5003EAD0E /* ItemStore.swift in Sources */,
 				DB9146371D80E4AB003EAD0E /* AppDelegate.swift in Sources */,
+				DB91464F1D81EC28003EAD0E /* ItemCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
