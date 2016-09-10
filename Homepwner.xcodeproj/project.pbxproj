@@ -16,6 +16,7 @@
 		DB91464D1D80EDA5003EAD0E /* ItemStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB91464C1D80EDA5003EAD0E /* ItemStore.swift */; };
 		DB91464F1D81EC28003EAD0E /* ItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB91464E1D81EC28003EAD0E /* ItemCell.swift */; };
 		DB9146511D8215A6003EAD0E /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB9146501D8215A6003EAD0E /* DetailViewController.swift */; };
+		DBF329AA1D8396D40069F188 /* ImageStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBF329A91D8396D40069F188 /* ImageStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		DB91464C1D80EDA5003EAD0E /* ItemStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemStore.swift; sourceTree = "<group>"; };
 		DB91464E1D81EC28003EAD0E /* ItemCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemCell.swift; sourceTree = "<group>"; };
 		DB9146501D8215A6003EAD0E /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		DBF329A91D8396D40069F188 /* ImageStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				DB91464C1D80EDA5003EAD0E /* ItemStore.swift */,
 				DB9146481D80E5D6003EAD0E /* ItemsViewController.swift */,
 				DB9146501D8215A6003EAD0E /* DetailViewController.swift */,
+				DBF329A91D8396D40069F188 /* ImageStore.swift */,
 				DB91464E1D81EC28003EAD0E /* ItemCell.swift */,
 				DB91463D1D80E4AB003EAD0E /* Assets.xcassets */,
 				DB91463F1D80E4AB003EAD0E /* LaunchScreen.storyboard */,
@@ -152,6 +155,7 @@
 				DB91464D1D80EDA5003EAD0E /* ItemStore.swift in Sources */,
 				DB9146511D8215A6003EAD0E /* DetailViewController.swift in Sources */,
 				DB9146371D80E4AB003EAD0E /* AppDelegate.swift in Sources */,
+				DBF329AA1D8396D40069F188 /* ImageStore.swift in Sources */,
 				DB91464F1D81EC28003EAD0E /* ItemCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +306,7 @@
 				DB9146471D80E4AB003EAD0E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
